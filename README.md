@@ -6,7 +6,7 @@ In this project, I have created a model to predict the candidacy of input molecu
 
 The Python notebook files contain the entire pipeline for this project, which was adopted from [Chanin Nantasenamat's tutorial on bioactivity prediction](https://github.com/dataprofessor/code/tree/master/python). The bioactivity_app.py contains the deployment of the model.
 
-### Tools used:
+### 🛠️ Tools used:
 - ChEMBL database
 - RDkit
 - PaDEL-Descriptor
